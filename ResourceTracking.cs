@@ -125,7 +125,6 @@ namespace SuperUser
 
             do
             {
-
                 if (temp > 1)
                 {
                     Console.WriteLine("You have " + attempts + " attempts left ");
