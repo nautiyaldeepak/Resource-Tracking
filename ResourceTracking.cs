@@ -121,8 +121,6 @@ namespace SuperUser
             int attempts = 2;
             int temp = 1;
             Console.WriteLine("OTP has been sent to " + email);
-
-
             do
             {
                 if (temp > 1)
