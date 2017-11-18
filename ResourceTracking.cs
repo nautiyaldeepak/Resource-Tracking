@@ -1,4 +1,6 @@
-﻿using System.Net;
+//Add Nuget Package for SMTP protocols
+//Add AWSSDK.S3 NuGet for Amazon
+using System.Net;
 using System.Net.Mail;
 using System;
 using System.IO;
